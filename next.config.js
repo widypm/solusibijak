@@ -6,7 +6,7 @@ const nextConfig = {
     {
         name: "boii",
         script: "node_modules/next/dist/bin/next",
-        args: "start -p 81", //running on port 80
+        args: "start -p 80", //running on port 80
         watch: false,
     },
   ],  
